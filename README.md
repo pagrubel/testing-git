@@ -1,2 +1,2 @@
-# pzg-git-test
-An area where I can test things on github
+# testing-git
+An area where I can test features on github
